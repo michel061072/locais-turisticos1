@@ -9,5 +9,10 @@
             height: 66rem;
             
         }
+        
+        p{
+            font-style: italic;
+            text-align: center;
+        }
     }
 }
